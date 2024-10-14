@@ -1,5 +1,5 @@
 # 💰 Conversor de Moedas
-É um programa em console que recebe e envia através do prompt de comando para fazer a conversão de unidades monetárias em tempo real usando a API gratuita Exchange Rate.
+É um programa em console que recebe e envia através do prompt de comando para fazer a conversão de unidades monetárias em tempo real usando a API gratuita Exchange Rate.\
 ![menu](screenshot/menu.png)
 
 ## 1️⃣ Conversões comuns
@@ -11,5 +11,5 @@ Se deseja fazer alguma conversão que não está entre as mais comuns é possív
 ![option 2](screenshot/option2.png)
 
 ## 3️⃣ Histórico
-Permite visualizar as últimas conversões que foram feitas.
+Permite visualizar as últimas conversões que foram feitas.\
 ![option 3](screenshot/option3.png)
