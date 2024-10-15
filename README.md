@@ -13,3 +13,8 @@ Se deseja fazer alguma conversão que não está entre as mais comuns é possív
 ## 3️⃣ Histórico
 Permite visualizar as últimas conversões que foram feitas.\
 ![option 3](screenshot/option3.png)
+
+## 🗞️ Infos
+Tecnologias usadas
+- Maven
+- JDK 21
